@@ -59,7 +59,7 @@ export default function() {
                     <li key={incident.id}>
                         <strong>CASO:</strong>
                         <p>{incident.title}</p>
-                        <strong>DESCRICAO:</strong>
+                        <strong>DESCRIÇÃO:</strong>
                         <p>{incident.description}</p>
                         <strong>VALOR:</strong>
                         <p>
